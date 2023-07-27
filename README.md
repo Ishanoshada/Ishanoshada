@@ -15,7 +15,11 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 
 </p>
+ <div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada" alt="ishanoshada" /></p>
+![repo size](https://img.shields.io/github/repo-size/ishanoshada/ishanoshada?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/ishanoshada/ishanoshada?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/ishanoshada/ishanoshada?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/ishanoshada/ishanoshada?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanoshada&show_icons=true" alt="ishanoshada" /></p>
+</div>
