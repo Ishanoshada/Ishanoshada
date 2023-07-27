@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Oshada</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=A deep seeker of the unknown ;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=32&vCenter=true&width=760&lines=A%20deep%20seeker%20of%20the%20unknown%20;)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishanoshada&label=Profile%20views&color=brightgreen&style=flat" alt="ishanoshada" /> </p>
 
