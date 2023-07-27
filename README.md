@@ -15,6 +15,22 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 
 </p>
+
+<div align="center">
+<a href="https://github.com/ishanoshada/github-readme-stats"><img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</br>
+</div>
+
+<div align="center">
+    <a href="https://github.com/ishanoshada/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ishanoshada's streak" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishanoshada&theme=github_dark"/>
+    </a>
+<a href="https://github.com/ishanoshada/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ishanoshada's streak" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishanoshada&theme=github_dark"/>
+    </a>
+  </div>
+
+
 <!-- <div>
 
 ![repo size](https://img.shields.io/github/repo-size/ishanoshada/ishanoshada?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
