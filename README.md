@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Oshada</h1>
 <h3 align="center">A deep seeker of the unknown </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishanoshada&label=Profile%20views&color=brightgreen&style=flat" alt="ishanoshada" /> </p>
 
 - ❤️😼 Web Pentesting , Packet Sniffing and Social Engineering 
 
