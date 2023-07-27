@@ -21,14 +21,7 @@
 </br>
 </div>
 
-<div align="center">
-    <a href="https://github.com/ishanoshada/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ishanoshada's streak" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishanoshada&theme=github_dark"/>
-    </a>
-<a href="https://github.com/ishanoshada/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ishanoshada's streak" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishanoshada&theme=github_dark"/>
-    </a>
-  </div>
+
 
 
 <!-- <div>
