@@ -80,20 +80,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 
-  <!-- Mathematics -->
-  <!-- You can link to relevant resources for mathematics, or use an appropriate icon. For example: -->
-  <a href="https://www.mathsisfun.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mathematical_operators_and_symbols_in_Unicode.svg/1200px-Mathematical_operators_and_symbols_in_Unicode.svg.png" alt="mathematics" width="40" height="40"/>
-  </a>
-
-  <!-- Logic -->
-  <!-- Similarly, you can link to resources for logic or use an icon representing logic. For example: -->
-  <a href="https://en.wikipedia.org/wiki/Logic" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/2472/2472283.png" alt="logic" width="40" height="40"/>
-  </a>
-</p>
-
-
+  
 </p>
 
 <div align="center">
