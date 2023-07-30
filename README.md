@@ -80,6 +80,7 @@
 
 
 <!-- <div>
+<summary>Click for details</summary>
 
 ![repo size](https://img.shields.io/github/repo-size/ishanoshada/ishanoshada?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/ishanoshada/ishanoshada?&labelColor=black&color=0fb9b1&style=for-the-badge)
