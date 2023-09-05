@@ -5,7 +5,7 @@
 
 - ❤️😼 web penetration testing  , Packet Sniffing 
 
-- 🌱 I’m currently learning **Android Pentesting **
+
 
 - 📫 **How to reach me** <a href="https://t.me/ishanoshada" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="ishanoshada" height="30" width="40" /></a>
 
