@@ -2,6 +2,10 @@
 <p align="center"> A deep seeker of the unknown </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishanoshada&label=Profile%20views&color=brightgreen&style=flat" alt="ishanoshada" /> </p>
+<p align="left">
+  <a href="https://github.com/ishanoshada?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
 
 - ❤️😼 web penetration testing  , Packet Sniffing 
 
@@ -76,11 +80,7 @@
 </br>
 </div>
 
-<p align="left">
-  <a href="https://github.com/ishanoshada?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
-<br/>
 
 <p align="center">
   <a href="https://github.com/ishanoshada">
