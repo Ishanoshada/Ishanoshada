@@ -82,7 +82,7 @@
 
 <br>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ishanoshada/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Ishanoshada/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
 
 <p align="center">
