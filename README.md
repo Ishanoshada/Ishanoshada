@@ -80,6 +80,9 @@
 </br>
 </div>
 
+<br>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ishanoshada/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
 
 
 <p align="center">
