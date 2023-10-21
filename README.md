@@ -92,7 +92,7 @@
 </p>
 <div id="stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanoshada&show_icons=true&theme=chartreuse-dark&line_height=28." width="400x" alt="Ishanoshada's github stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&theme=dark&hide_langs_below=1&layout=compact" width="360px"/>
+
   
 </div>
 <picture>
