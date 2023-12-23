@@ -3,7 +3,8 @@
 
 </br>
 </br>
-[![](https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6)](https://visitcount.itsvg.in)
+![h](https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6)
+<br>
 <p align="left">
   <a href="https://github.com/ishanoshada?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
