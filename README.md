@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishan Oshada</h1>
 <p align="center"> A deep seeker of the unknown </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishanoshada&label=Profile%20views&color=red&style=flat" alt="ishanoshada" /> </p>
+</br>
+</br>
+[![](https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6)](https://visitcount.itsvg.in)
 <p align="left">
   <a href="https://github.com/ishanoshada?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
