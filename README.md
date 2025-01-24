@@ -87,6 +87,10 @@
   </a>
 </p>
 <br>
+<div id="stats" align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanoshada&show_icons=true&theme=chartreuse-dark&line_height=28." width="400x" alt="Ishanoshada's github stats"/>
+
+<br>
 <div align="center">
 <a href="https://github.com/ishanoshada/github-readme-stats"><img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </br>
@@ -98,8 +102,6 @@
 
 
 
-<div id="stats" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanoshada&show_icons=true&theme=chartreuse-dark&line_height=28." width="400x" alt="Ishanoshada's github stats"/>
 
 <br>
 <!--
