@@ -102,8 +102,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanoshada&show_icons=true&theme=chartreuse-dark&line_height=28." width="400x" alt="Ishanoshada's github stats"/>
 
 <br>
+<!--
 <img align="center" src="https://api.githubtrends.io/user/svg/Ishanoshada/langs?time_range=one_year&theme=bright_lights" width="300x" alt="Ishanoshada's github stats"/>
+-->
 <br>
+
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
