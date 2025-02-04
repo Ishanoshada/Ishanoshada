@@ -8,7 +8,7 @@
 <p align="center">
 <img alt="" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/><br><br>
  
-  <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker ish" style="width: 100px; height: 63px; left: 0px; top: 0px; " align="center">
+  <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker ish" style="width: 100px; height: 63px; left: 0px; top: 0px ; " align="center">
 
 </p>
 
@@ -23,63 +23,39 @@
 
 -->
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" class="icon">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Heroku -->
-  <a href="https://heroku.com" target="_blank" class="icon">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Flask -->
-  <a href="https://flask.org" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Go -->
-  <a href="https://golang.org" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-2A6379?style=for-the-badge&logo=metasploit&logoColor=white)
+  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </p>
+
+<!-- Languages and Tools -->
 <br>
 <p align="center">
   <a href="https://github.com/ishanoshada">
@@ -88,16 +64,18 @@
   </a>
 </p>
 <br>
-<div id="stats" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanoshada&show_icons=true&theme=chartreuse-dark&line_height=28." width="400x" alt="Ishanoshada's github stats"/>
-
-<br>
-<div align="center">
-<a href="https://github.com/ishanoshada/github-readme-stats"><img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-</br>
+<div id="stats" align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ishanoshada&show_icons=true&theme=chartreuse-dark&line_height=28" width="400" alt="Ishanoshada's GitHub stats"/>
+    <a href="https://github.com/ishanoshada/github-readme-stats">
+        <img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+    </a>
 </div>
 
+
 <br>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ishanoshada&theme=nord&no-frame=true" alt="ishanoshada" /></a> </p>
 
 
 
