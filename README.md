@@ -6,9 +6,8 @@
  
   <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker ish" style="width: 100px; height: 63px; left: 0px; top: 0px ; " align="center">
 
-
-
 </p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -43,24 +42,34 @@
 
 </p>
 
-<!-- Languages and Tools -->
+
 <br>
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 <p align="center">
   <a href="https://github.com/ishanoshada">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishanoshada&theme=radical" alt="Al Siam's GitHub Contribution"/>
     
   </a>
 </p>
-<br>
+
+
+<p align="center">
+  <a href="https://github.com/ishanoshada">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanoshada&theme=gotham" alt="stats"/>
+    
+  </a>
+</p>
+</div>
+
 <div id="stats" align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ishanoshada&show_icons=true&theme=chartreuse-dark&line_height=28" width="400" alt="Ishanoshada's GitHub stats"/>
     <a href="https://github.com/ishanoshada/github-readme-stats">
         <img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
     </a>
+
 </div>
-
-
-<br>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ishanoshada&theme=nord&no-frame=true" alt="ishanoshada" /></a> </p>
