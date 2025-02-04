@@ -1,27 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ishan Oshada</h1>
 <h3 align="center"> A deep seeker of the unknown </h3>
 
-<br>
-
-
-<br>
 <p align="center">
 <img alt="" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/><br><br>
  
   <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker ish" style="width: 100px; height: 63px; left: 0px; top: 0px ; " align="center">
 
+- 📫 **How to reach me** <a href="https://t.me/ishanoshadax" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="ishanoshada" height="30" width="40" align="center" /></a>
+
 </p>
 
-
-
-<!--
-- maths :\\
-
-
-
-- 📫 **How to reach me** <a href="https://t.me/ishanoshada" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="ishanoshada" height="30" width="40" /></a>
-
--->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
