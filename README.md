@@ -46,6 +46,11 @@
 <br>
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ishanoshada&theme=nord&no-frame=true" alt="ishanoshada" /></a> </p>
+
+
+
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 <p align="center">
   <a href="https://github.com/ishanoshada">
@@ -69,12 +74,19 @@
         <img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
     </a>
 
+<a href="https://ishan-oshada.vercel.app/blogs">
+    <img alt="ishanoshada's blogs" src="https://ishan-oshada.vercel.app/svg/blogs" height="192px"/>
+</a>
+
+<a href="https://ishan-oshada.vercel.app/projects">
+    <img alt="ishanoshada's projects" src="https://ishan-oshada.vercel.app/svg/projects" height="192px"/>
+</a>
+
+<a href="https://ishan-oshada.vercel.app/stories">
+    <img alt="ishanoshada's stories" src="https://ishan-oshada.vercel.app/svg/stories" height="192px"/>
+</a>
+
 </div>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ishanoshada&theme=nord&no-frame=true" alt="ishanoshada" /></a> </p>
-
-
 
 
 
