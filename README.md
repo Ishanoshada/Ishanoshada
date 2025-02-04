@@ -6,8 +6,8 @@
 
 <br>
 <p align="center">
-<img alt="All Repositories" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/><br><br>
-  <a href="https://github.com/ishanoshada?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a><br>
+<img alt="" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/><br><br>
+  <a href="https://github.com/ishanoshada?tab=repositories" target="_blank"><img alt="" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a><br>
   <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker ish" style="width: 100px; height: 63px; left: 0px; top: 0px; " align="center">
 
 </p>
