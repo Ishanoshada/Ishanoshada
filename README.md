@@ -5,7 +5,6 @@
  <img src="https://ishan-oshada.vercel.app/svg/main" alt="main svg" style="width: 100%; height: 100%; left: 0px; top: 0px ; " align="center">
  </a>
 </p>
-<br>
 
 <p align="center">
 <img alt="" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/><br><br>
