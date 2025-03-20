@@ -7,9 +7,12 @@
 </p>
 
 
-<a href="https://buymeacoffee.com/ishanoshada" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange?style=flat&logo=buymeacoffee" alt="Buy Me a Coffee">
-</a>
+<p align="center">
+  <a href="https://buymeacoffee.com/ishanoshada">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
+  </a>
+</p>
+
 
 <p align="center">
 <img alt="" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/><br><br>
