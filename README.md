@@ -7,11 +7,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://buymeacoffee.com/ishanoshada">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
-  </a>
-</p>
 
 
 <p align="center">
@@ -57,7 +52,11 @@
 
 
 <br>
-
+<p align="center">
+  <a href="https://buymeacoffee.com/ishanoshada">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
+  </a>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ishanoshada&theme=nord&no-frame=true" alt="ishanoshada" /></a> </p>
 
