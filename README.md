@@ -4,14 +4,8 @@
 
  <img src="https://ishan-oshada.vercel.app/svg/main" alt="main svg" style="width: 100%; height: 100%; left: 0px; top: 0px ; " align="center">
  </a>
-</p>
-
-
-
-
-<p align="center">
-<img alt="" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/><br><br>
- 
+<!-- <img alt="" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/>
+  -->
   <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker ish" style="width: 100px; height: 63px; left: 0px; top: 0px ; " align="center">
 
 </p>
@@ -85,15 +79,20 @@
     <a href="https://github.com/ishanoshada/github-readme-stats">
         <img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
     </a>
-
+ 
+<a>
+    <img alt="ishanoshada's projects" src="https://ishan-oshada.vercel.app/svg/github/repo/ishanoshada/3" height="350px"/>
+</a>
+<br>
 <a href="https://ishan-oshada.vercel.app/blog">
     <img alt="ishanoshada's blogs" src="https://ishan-oshada.vercel.app/svg/blogs" height="192px"/>
 </a>
 
-<a href="https://ishan-oshada.vercel.app/projects">
+
+<!--<a href="https://ishan-oshada.vercel.app/projects">
     <img alt="ishanoshada's projects" src="https://ishan-oshada.vercel.app/svg/projects" height="192px"/>
 </a>
-
+-->
 <a href="https://ishan-oshada.vercel.app/stories">
     <img alt="ishanoshada's stories" src="https://ishan-oshada.vercel.app/svg/stories" height="192px"/>
 </a>
