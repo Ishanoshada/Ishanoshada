@@ -6,12 +6,12 @@
  </a>
 <!-- <img alt="" title="profile views" src="https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6"/>
   -->
-  <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker ish" style="width: 100px; height: 63px; left: 0px; top: 0px ; " align="center">
+  <!-- <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker ish" style="width: 100px; height: 63px; left: 0px; top: 0px ; " align="center"> -->
 
 </p>
 
 
-
+<!-- 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
@@ -42,7 +42,7 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</p>
+</p> -->
 
 
 <br>
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ishanoshada&theme=nord&no-frame=true" alt="ishanoshada" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ishanoshada&theme=nord&no-frame=true" alt="ishanoshada" /></a> </p> -->
 
 
 
@@ -80,22 +80,22 @@
         <img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
     </a>
  
-<a>
+<!-- <a>
     <img alt="ishanoshada's projects" src="https://ishan-oshada.vercel.app/svg/github/repo/ishanoshada/3" height="350px"/>
 </a>
 <br>
 <a href="https://ishan-oshada.vercel.app/blog">
     <img alt="ishanoshada's blogs" src="https://ishan-oshada.vercel.app/svg/blogs" height="192px"/>
-</a>
+</a> -->
 
 
 <!--<a href="https://ishan-oshada.vercel.app/projects">
     <img alt="ishanoshada's projects" src="https://ishan-oshada.vercel.app/svg/projects" height="192px"/>
 </a>
 -->
-<a href="https://ishan-oshada.vercel.app/stories">
+<!-- <a href="https://ishan-oshada.vercel.app/stories">
     <img alt="ishanoshada's stories" src="https://ishan-oshada.vercel.app/svg/stories" height="192px"/>
-</a>
+</a> -->
 
 </div>
 
@@ -109,11 +109,11 @@
 <br>
 
 </div>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 
 <!-- <div>
@@ -125,6 +125,6 @@
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/ishanoshada/ishanoshada?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div> --!>
+<!-- 
 
-
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
