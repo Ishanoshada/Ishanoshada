@@ -65,7 +65,8 @@
   </a>
 </p>
 
-
+<!--
+r2
 <p align="center">
   <a href="https://github.com/ishanoshada">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanoshada&theme=gotham" alt="stats"/>
@@ -79,7 +80,8 @@
     <a href="https://github.com/ishanoshada/github-readme-stats">
         <img alt="ishanoshada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanoshada&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
     </a>
- 
+
+ -->
 <!-- <a>
     <img alt="ishanoshada's projects" src="https://ishan-oshada.vercel.app/svg/github/repo/ishanoshada/3" height="350px"/>
 </a>
