@@ -17,7 +17,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishanoshada&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
   <a href="https://ishanoshada.com/">
-    <img src="https://www.ishanoshada.com/svg/pypi" alt="main svg" style="width: 60%; height: 60%;" align="center">
+    <img src="https://www.ishanoshada.com/svg/pypi" alt="main svg" style="width: 80%; height: 60%;" align="center">
   </a> 
 </p>
 
