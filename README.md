@@ -52,6 +52,8 @@
   </a>
 </p>
 
+
+ 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ishanoshada&theme=nord&no-frame=true" alt="ishanoshada" /></a> </p> -->
 
 
@@ -63,6 +65,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishanoshada&theme=radical" alt="Al Siam's GitHub Contribution"/>
     
   </a>
+
+  <a href="https://ishanoshada.com/">
+
+ <img src="https://ishanoshada.com/svg/pypi" alt="main svg" style="width: 60%; height: 50%; left: 0px; top: 0px ; " align="center">
+ </a> 
 </p>
 
 <!--
