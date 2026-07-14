@@ -68,7 +68,7 @@
 
   <a href="https://ishanoshada.com/">
 
- <img src="https://www.ishanoshada.com/svg/pypi" alt="main svg" style="width: 60%; height: 60%; left: 0px; top: 0px ; " align="center">
+ <img src="https://www.ishanoshada.com//svg//pypi" alt="main svg" style="width: 60%; height: 60%; left: 0px; top: 0px ; " align="center">
  </a> 
  
 </p>
