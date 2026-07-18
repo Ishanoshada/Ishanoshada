@@ -6,11 +6,6 @@
 
 <br>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/ishanoshada">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/ishanoshada">
@@ -33,6 +28,11 @@
 
 <br>
 <br>
+<p align="center">
+  <a href="https://buymeacoffee.com/ishanoshada">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
+  </a>
+</p>
 
 <p align="center">
   <picture>
