@@ -16,9 +16,19 @@
   <a href="https://github.com/ishanoshada">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishanoshada&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
-  <a href="https://ishanoshada.com/">
-    <img src="https://www.ishanoshada.com/svg/pypi" alt="main svg" style="width: 80%; height: 60%;" align="center">
-  </a> 
+
+  <table align="center" border="0">
+  <tr>
+    <td align="center">
+      <h3>Top 10 by Monthly Downloads</h3>
+      <img src="https://raw.githubusercontent.com/Ishanoshada/Pypi-Stats-Generator/refs/heads/main/data/oshada_latest_monthly.svg" alt="Monthly Top 10" width="800">
+    </td>
+    <td align="center">
+      <h3>Top 10 by All-time Downloads</h3>
+      <img src="https://raw.githubusercontent.com/Ishanoshada/Pypi-Stats-Generator/refs/heads/main/data/oshada_latest_alltime.svg" alt="All-time Top 10" width="800">
+    </td>
+  </tr>
+</table>
 </p>
 
 <br>
