@@ -6,7 +6,6 @@
 
 <br>
 
-
 <p align="center">
   <a href="https://github.com/ishanoshada">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishanoshada&theme=radical" alt="Al Siam's GitHub Contribution"/>
@@ -28,9 +27,17 @@
 
 <br>
 <br>
+
+
 <p align="center">
-  <a href="https://buymeacoffee.com/ishanoshada">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
+  <a href="https://www.paypal.com/donate/?business=ic31908%40gmail.com&currency_code=USD">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" height="80">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.paypal.com/donate/?business=ic31908%40gmail.com&currency_code=USD">
+    <img src="https://raw.githubusercontent.com/elestyle/elepay-payment-logos/master/payment_logos/svg/paypal.svg" alt="Donate with PayPal" height="100">
   </a>
 </p>
 
